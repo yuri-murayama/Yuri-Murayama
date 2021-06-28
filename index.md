@@ -16,7 +16,9 @@ Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and 
 
 ### Publications
 - Murayama, Y., Pereira,L.K., and Kobayashi, I. Dialogue over Context and Structured Knowledge using a Neural Network Model with External Memories. The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP2020) Knowledgeable NLP Workshop, December 2020.
+
 - Murayama, Y. and Kobayashi, I. Dialogue over context and structured knowledge using a neural network model with an external memory. The 34th Annual Conference of the Japanese Society for Artificial Intelligence, June 2020. (in Japanese) 
+
 - Murayama, Y. and Kobayashi, I. Approach to dialogue over context and structured knowledge using a neural network model with an external memory. The 26th Annual Meeting of the Association for Natural Language Processing, March 2020. (in Japanese) 
 
 - Murayama, Y. and Kobayashi, I. Building a dialogue system over context and knowledge using a neural network model with an external memory. The 14th Young Researcher Association for NLP Studies, Hokkaido, Japan, August 2019. (in Japanese) 
