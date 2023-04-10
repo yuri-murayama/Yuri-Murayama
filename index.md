@@ -1,17 +1,17 @@
 # Yuri Murayama
-Contact: murayama.yuri(at)is.ocha.ac.jp
+Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 
 ### Research Interests
 Interested in using knowledge for natural language processing. Studied on converting natural language questions into SPARQL queries to access knowledge and building a dialogue system over context and knowledge using a neural network model with external memories. Addressing multi-hop question answering with the tensor product of knowledge.
 
 ### Education
-**Ph.D. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2020-present.  
+**Ph.D. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2020-Mar 2023.  
 Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University. 
 
-**M.A. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2018- Mar 2020.  
+**M.S. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2018-Mar 2020.  
 Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University. 
 
-**B.A. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2014-Mar 2018.  
+**B.S. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2014-Mar 2018.  
 Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University.
 
 ### Publications
@@ -56,7 +56,7 @@ Apr 2017- Mar 2020
 
 ### Executive Members
 Young Researcher Association for NLP Studies (YANS)  
-Apr 2021-present
+Apr 2021-Mar 2023
 
 State-of-the-art NLP Study Group  
 Sep 2020-present
