@@ -5,7 +5,7 @@ Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 Interested in using knowledge for natural language processing. Studied on converting natural language questions into SPARQL queries to access knowledge and building a dialogue system over context and knowledge using a neural network model with external memories. Addressing multi-hop question answering with the tensor product of knowledge.
 
 ### Work Experience
-Project Researcher, The University of Tokyo, Tokyo, Japan, Apr 2023-present.
+**Project Researcher**, The University of Tokyo, Tokyo, Japan, Apr 2023-present.
 
 ### Education
 **Ph.D. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2020-Mar 2023.  
