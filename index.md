@@ -4,6 +4,9 @@ Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 ### Research Interests
 Interested in using knowledge for natural language processing. Studied on converting natural language questions into SPARQL queries to access knowledge and building a dialogue system over context and knowledge using a neural network model with external memories. Addressing multi-hop question answering with the tensor product of knowledge.
 
+### Work Experience
+Project Researcher, The University of Tokyo, Tokyo, Japan, Apr 2023-present.
+
 ### Education
 **Ph.D. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2020-Mar 2023.  
 Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University. 
@@ -49,7 +52,7 @@ Apr 2020-Mar 2023
 
 ### Professional Service
 **Research Assistant**, Artificial Intelligence Research Center (AIRC) of National Institute of Advanced Industrial Science and Technology (AIST) NEDO3.0 “Core Technology Development of Next-generation AI and Robots”  
-Feb 2021-present
+Feb 2021-Mar 2023
 
 **Research Member**, Japan Science and Technology Agency (JST)/ Core Research for Evolutional Science and Technology (CREST) “A Framework PRINTEPS to Develop Practical Artificial Intelligence” (JPMJCR14E3)   
 Apr 2017- Mar 2020
