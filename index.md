@@ -1,4 +1,4 @@
-# Yuri Murayama
+# Yuri Murayama / 村山 友理
 Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 
 ### Research Interests
@@ -6,6 +6,32 @@ Interested in using knowledge for natural language processing. Studied on conver
 
 ### Work Experience
 **Project Researcher**, The University of Tokyo, Tokyo, Japan, Apr 2023-present.
+
+### Publications
+**Journal papers**
+- <ins>Murayama, Y.</ins>, Kobayashi, I., Towards Question Answering with Multi-hop Reasoning and Calculation over Knowledge using a Neural Network Model with External Memories, J. Adv. Comput. Intell. Intell. Inform., 27(3), pp.481-489, 2022.
+
+**International conferences/workshops**
+- <ins>Murayama, Y.</ins>, Kobayashi, I., Towards Question Answering with Multi-hop Reasoning over Knowledge using a Neural Network Model with External Memories, Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2022.
+
+- <ins>Murayama, Y.</ins>, Pereira,L.K., and Kobayashi, I. Dialogue over Context and Structured Knowledge using a Neural Network Model with External Memories. The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP2020) Knowledgeable NLP Workshop, December 2020.
+
+- <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Menu Ontology Data through Converting Natural Language into SPARQL Queries. The 8th Joint International Semantic Technology Conference (JIST2018) Workshop, Hyogo, Japan, November 2018.
+
+**Domestic conferences**
+- <ins>Murayama, Y.</ins>, Ishigaki, T., Uehara, Y., Miyao, Y., Takamura, H., and Kobayashi, I. Text Generation on Important Features of Table Data. The 37th Annual Conference of the Japanese Society for Artificial Intelligence, June 2023.
+
+- <ins>Murayama, Y.</ins> and Kobayashi, I. Dialogue over context and structured knowledge using a neural network model with an external memory. The 34th Annual Conference of the Japanese Society for Artificial Intelligence, June 2020.
+
+- <ins>Murayama, Y.</ins> and Kobayashi, I. Approach to dialogue over context and structured knowledge using a neural network model with an external memory. The 26th Annual Meeting of the Association for Natural Language Processing, March 2020. 
+
+- <ins>Murayama, Y.</ins> and Kobayashi, I. Building a dialogue system over context and knowledge using a neural network model with an external memory. The 14th Young Researcher Association for NLP Studies, Hokkaido, Japan, August 2019. 
+
+- <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Applying a neural network model of dialogue considering context to Japanese ordering dialogue. The 33th Annual Conference of the Japanese Society for Artificial Intelligence, Niigata, Japan, June 2019. 
+
+- <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Structured Knowledge through Converting Natural Language into SPARQL Queries. The 32nd Annual Conference of the Japanese Society for Artificial Intelligence, Kagoshima, Japan, June 2018.
+
+- <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Fundamental Study on an Access Method to Linked Open Data through Converting Natural Language into SPARQL Queries. The 24th Annual Meeting of the Association for Natural Language Processing, Okayama, Japan, March 2018.
 
 ### Education
 **Ph.D. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2020-Mar 2023.  
@@ -16,24 +42,6 @@ Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and 
 
 **B.S. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2014-Mar 2018.  
 Advisor: Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University.
-
-### Publications
-- Murayama, Y., Pereira,L.K., and Kobayashi, I. Dialogue over Context and Structured Knowledge using a Neural Network Model with External Memories. The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP2020) Knowledgeable NLP Workshop, December 2020.
-
-- Murayama, Y. and Kobayashi, I. Dialogue over context and structured knowledge using a neural network model with an external memory. The 34th Annual Conference of the Japanese Society for Artificial Intelligence, June 2020. (in Japanese) 
-
-- Murayama, Y. and Kobayashi, I. Approach to dialogue over context and structured knowledge using a neural network model with an external memory. The 26th Annual Meeting of the Association for Natural Language Processing, March 2020. (in Japanese) 
-
-- Murayama, Y. and Kobayashi, I. Building a dialogue system over context and knowledge using a neural network model with an external memory. The 14th Young Researcher Association for NLP Studies, Hokkaido, Japan, August 2019. (in Japanese) 
-
-- Murayama, Y., Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Applying a neural network model of dialogue considering context to Japanese ordering dialogue. The 33th Annual Conference of the Japanese Society for Artificial Intelligence, Niigata, Japan, June 2019. (in Japanese) 
-
-- Murayama, Y., Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Menu Ontology Data through Converting Natural Language into SPARQL Queries. The 8th Joint International Semantic Technology Conference (JIST2018) Workshop, Hyogo, Japan, November 2018. 
-
-- Murayama, Y., Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Structured Knowledge through Converting Natural Language into SPARQL Queries. The 32nd Annual Conference of the Japanese Society for Artificial Intelligence, Kagoshima, Japan, June 2018. (in Japanese) 
-
-- Murayama, Y., Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Fundamental Study on an Access Method to Linked Open Data through Converting Natural Language into SPARQL Queries. The 24th Annual Meeting of the Association for Natural Language Processing, Okayama, Japan, March 2018. (in Japanese)
-
 
 ### Research Experience
 **Research Intern**, NTT Media Intelligence Laboratory  
