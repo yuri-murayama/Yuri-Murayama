@@ -21,9 +21,9 @@ Interested in using knowledge for natural language processing. Studied on conver
 - <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Menu Ontology Data through Converting Natural Language into SPARQL Queries. The 8th Joint International Semantic Technology Conference (JIST2018) Workshop, Hyogo, Japan, November 2018.
 
 **Domestic conferences**
-- <ins>Murayama, Y.</ins>, Ishigaki, T., Uehara, Y., Miyao, Y., Takamura, H., and Kobayashi, I. Text Generation on Important Features of Table Data. The 37th Annual Conference of the Japanese Society for Artificial Intelligence, June 2023.
+- <ins>Murayama, Y.</ins>, Ishigaki, T., Uehara, Y., Miyao, Y., Takamura, H., and Kobayashi, I. Text Generation on Important Features of Table Data. The 37th Annual Conference of the Japanese Society for Artificial Intelligence, Kumamoto, Japan, June 2023.
 
-- <ins>Murayama, Y.</ins> and Kobayashi, I. Question Answering with Calculation over Structured Knowledge using a Neural Network Model with External Memories. The 29th Annual Meeting of the Association for Natural Language Processing, March 2023.
+- <ins>Murayama, Y.</ins> and Kobayashi, I. Question Answering with Calculation over Structured Knowledge using a Neural Network Model with External Memories. The 29th Annual Meeting of the Association for Natural Language Processing, Okinawa, Japan, March 2023.
 
 - <ins>Murayama, Y.</ins> and Kobayashi, I. Dialogue over context and structured knowledge using a neural network model with an external memory. The 34th Annual Conference of the Japanese Society for Artificial Intelligence, June 2020.
 
