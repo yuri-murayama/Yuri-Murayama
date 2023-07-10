@@ -1,5 +1,5 @@
 # Yuri Murayama / 村山 友理
-[Publications](/publications.md)
+<span style="color: pink; ">[Publications](/publications.md)</span>
 
 Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 
