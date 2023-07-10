@@ -12,7 +12,9 @@ Interested in using knowledge for natural language processing. Studied on conver
 - <ins>Murayama, Y.</ins> and Kobayashi, I. Towards Question Answering with Multi-hop Reasoning and Calculation over Knowledge using a Neural Network Model with External Memories, J. Adv. Comput. Intell. Intell. Inform., 27(3), pp.481-489, 2022.
 
 **International conferences/workshops**
-- <ins>Murayama, Y.</ins> and Kobayashi, I. Towards Question Answering with Multi-hop Reasoning over Knowledge using a Neural Network Model with External Memories, Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems (SCIS&ISIS), 2022.
+- Kobayashi, R., <ins>Murayama, Y.</ins>, and Izumi, K. Economic Causal Chain Presentation System Considering Output Diversity to Search Economic Ripple Effects, The SIGIR '23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services (KDF), Taipei, Taiwan, July 2023.
+
+- <ins>Murayama, Y.</ins> and Kobayashi, I. Towards Question Answering with Multi-hop Reasoning over Knowledge using a Neural Network Model with External Memories, Joint 12th International Conference on Soft Computing and Intelligent Systems and 23rd International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Mie, Japan, November 2022.
 
 - <ins>Murayama, Y.</ins>, Pereira,L.K., and Kobayashi, I. Dialogue over Context and Structured Knowledge using a Neural Network Model with External Memories. The 1st Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 10th International Joint Conference on Natural Language Processing (AACL-IJCNLP2020) Knowledgeable NLP Workshop, December 2020.
 
