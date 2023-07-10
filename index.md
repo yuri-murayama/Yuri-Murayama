@@ -1,4 +1,6 @@
 # Yuri Murayama / 村山 友理
+[Publications](/publications.md)
+
 Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 
 ### Research Interests
