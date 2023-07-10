@@ -1,6 +1,5 @@
-# Yuri Murayama / 村山 友理
 [<span style="color: pink; ">**Home**</span>](/index.md)&emsp;[<span style="color: pink; ">**Publications**</span>](/publications.md)
-
+# Yuri Murayama / 村山 友理
 Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 
 ### Research Interests
@@ -50,3 +49,5 @@ State-of-the-art NLP Study Group (SNLP), Sep 2020-present.
 - Association for Natural Language Processing (NLP)  
 - Japanese Society for Artificial Intelligence (JSAI)  
 
+### Presentations
+[Speaker Deck](https://speakerdeck.com/yuri00)
