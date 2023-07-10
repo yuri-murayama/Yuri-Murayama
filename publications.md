@@ -1,3 +1,4 @@
+[<span style="color: pink; ">Home</span>](/index.md)
 ### Publications
 **International conferences/workshops**
 - Kobayashi, R., <ins>Murayama, Y.</ins>, and Izumi, K. Economic Causal Chain Presentation System Considering Output Diversity to Search Economic Ripple Effects, The SIGIR '23 Workshop on Knowledge Discovery from Unstructured Data in Financial Services (KDF), Taipei, Taiwan, July 2023.
