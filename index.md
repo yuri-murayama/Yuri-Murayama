@@ -1,4 +1,4 @@
-[<span style="color: pink; ">**Home**</span>](/index.md)&emsp;[<span style="color: pink; ">**Publications**</span>](/publications.md)
+[<span style="color: Blue; ">**Home**</span>](/index.md)&emsp;[<span style="color: Blue; ">**Publications**</span>](/publications.md)
 # Yuri Murayama / 村山 友理
 Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 
