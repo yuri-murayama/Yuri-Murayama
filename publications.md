@@ -11,6 +11,7 @@
 
 **Journal papers**
 - Taguchi, R., Sakaji, H., Izumi, K., and <ins>Murayama, Y.</ins> Constructing Sentiment Signal-based Asset Allocation Method with Causality Information. New Generation Computing, 2023.
+  
 - <ins>Murayama, Y.</ins> and Kobayashi, I. Towards Question Answering with Multi-hop Reasoning and Calculation over Knowledge using a Neural Network Model with External Memories, J. Adv. Comput. Intell. Intell. Inform., 27(3), pp.481-489, 2022.
 
 **Domestic conferences**
