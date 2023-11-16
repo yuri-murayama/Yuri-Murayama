@@ -10,6 +10,7 @@
 - <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Menu Ontology Data through Converting Natural Language into SPARQL Queries. The 8th Joint International Semantic Technology Conference (JIST) Workshop, Hyogo, Japan, November 2018.
 
 **Journal papers**
+- Taguchi, R., Sakaji, H., Izumi, K., and <ins>Murayama, Y.</ins> Constructing Sentiment Signal-based Asset Allocation Method with Causality Information. New Generation Computing, 2023.
 - <ins>Murayama, Y.</ins> and Kobayashi, I. Towards Question Answering with Multi-hop Reasoning and Calculation over Knowledge using a Neural Network Model with External Memories, J. Adv. Comput. Intell. Intell. Inform., 27(3), pp.481-489, 2022.
 
 **Domestic conferences**
