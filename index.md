@@ -11,21 +11,21 @@ Interested in using knowledge for natural language processing. Studied on conver
 **Project Researcher**, The University of Tokyo, Tokyo, Japan, Apr 2023-Mar 2024.
 
 ### Education
-**Ph.D. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2020-Mar 2023.  
+**Ph.D. in Computer Science**, Ochanomizu University.  
 Advisor: Prof. Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University. 
 
-**M.S. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2018-Mar 2020.  
+**M.S. in Computer Science**, Ochanomizu University.  
 Advisor: Prof. Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University. 
 
-**B.S. in Computer Science**, Ochanomizu University, Tokyo, Japan, Apr 2014-Mar 2018.  
+**B.S. in Computer Science**, Ochanomizu University.  
 Advisor: Prof. Ichiro Kobayashi, Advanced Sciences, Graduate School of Humanities and Sciences, Ochanomizu University.
 
 ### Research Experience
-**Research Intern**, NTT Media Intelligence Laboratory, Kanagawa, Japan, Aug-Sep 2018.  
+**Research Intern**, NTT Media Intelligence Laboratory.  
 Supervised by Dr. Ryuichiro Higashinaka.  
 Developed a characterized chatbot with external data such as the person’s blogs and twitter to compensate for the lack of real corpora.
 
-**Research Intern**, IBM Research-Tokyo, Tokyo, Japan, Oct-Dec 2017.  
+**Research Intern**, IBM Research-Tokyo.  
 Supervised by Mr. Masaki Ono.  
 Extracted subject-predicate-object relationship from medical documents using Watson Explorer to improve the accuracy of prediction on disease risks.
 
