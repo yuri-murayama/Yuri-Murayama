@@ -6,9 +6,9 @@ Contact: murayama.yuri(at)sys.t.u-tokyo.ac.jp
 Interested in using knowledge for natural language processing. Studied on converting natural language questions into SPARQL queries to access knowledge and building a dialogue system over context and knowledge using a neural network model with external memories. Addressing multi-hop question answering with the tensor product of knowledge.
 
 ### Work Experience
-**Assistant Professor**, The University of Tokyo, Tokyo, Japan, Apr 2024-present.
+**Assistant Professor**, The University of Tokyo, Apr 2024-present.
 
-**Project Researcher**, The University of Tokyo, Tokyo, Japan, Apr 2023-Mar 2024.
+**Project Researcher**, The University of Tokyo, Apr 2023-Mar 2024.
 
 ### Education
 **Ph.D. in Computer Science**, Ochanomizu University.  
@@ -30,6 +30,7 @@ Supervised by Mr. Masaki Ono.
 Extracted subject-predicate-object relationship from medical documents using Watson Explorer to improve the accuracy of prediction on disease risks.
 
 ### Honors and Awards
+**JACIII Best Paper Award 2024**, J. Adv. Comput. Intell. Intell. Inform. (selected from 329 papers).
 **Research Fellowship for Young Scientists (JSPS DC1)**, Japan society for the promotion of science, Apr 2020-Mar 2023.  
 
 ### Professional Service
@@ -42,9 +43,9 @@ Representative: Prof. Takahira Yamaguchi, Faculty of Science and Technology, Kei
 Contributed to a dialogue continuation part of the platform by building a dialogue system over context using a neural network model. Collaborated with Ochanomizu elementary school by a lesson with a robot based on PRINTEPS (PRactical INTElligent aPplicationS).
 
 ### Executive Members
-Young Researcher Association for NLP Studies (YANS), Apr 2021-Mar 2023.  
-
-State-of-the-art NLP Study Group (SNLP), Sep 2020-Aug 2023.
+- Annual Meeting of the Association for Natural Language Processing (NLP), Apr 2024-Mar 2026. 
+- Young Researcher Association for NLP Studies (YANS), Apr 2021-Mar 2023.  
+- State-of-the-art NLP Study Group (SNLP), Sep 2020-Aug 2023.
 
 ### Professional Memberships
 - Association for Computational Linguistics (ACL)  
