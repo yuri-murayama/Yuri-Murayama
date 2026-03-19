@@ -14,6 +14,22 @@
 - <ins>Murayama, Y.</ins>, Kobayashi, I., Morita, T., Nakano, Y., and Yamaguchi, T. Development of an Access Method to Menu Ontology Data through Converting Natural Language into SPARQL Queries. The 8th Joint International Semantic Technology Conference (JIST) Workshop, Hyogo, Japan, November 2018.
 
 **Journal papers**
+- Matsumoto, M., Hashimoto, R., Suzuki, M., Murayama, Y., and Izumi, K. Impact of Information Disparity between Individual Investors on Profits of Meme Stocks using an Artificial Market Simulation Approach. Journal of Computational Social Science, Vol.8, 2025.
+  
+- Xu, T., Piao, Z., Mukai, T., Murayama, Y., and Izumi, K. Emulating Fundamental Analysts: Analytical Stage-based Multi-agent Framework Enhanced with Expert Guidance and Preference-anchored Likelihood Adjustment. Intelligent Systems with Applications, Vol.26, 2025.
+  
+- Minakawa, N., Izumi, K., Murayama, Y. Trade Flow Estimation in International Trade Network by Edge-convolutional Graph Neural Network. Journal of Information Processing, Vol.66, No.1, pp.119-128, 2025.
+  
+- Minakawa, N., Izumi, K., Murayama, Y., and Sakaji, H. Firm Default Prediction by GNN with Gravity-model Informed Neighbor Node Sampling. The Review of Socionetwork Strategies, 2024.
+  
+- Cheng, L., Izumi, K., Murayama, Y., Yamamura, Y., Shishido, Y. Analysis of Optimal Market Making Strategies of CFD Market Using Artificial Market Simulation. Transactions of the Japanese Society for Artificial Intelligence, 2024.
+  
+- Ueda, T., Izumi, K., Murayama, Y. Supply Chain Turbulence Index using Foot Traffic Data and Factor Decomposition Method. Transactions of the Japanese Society for Artificial Intelligence, 2024.
+  
+- Hashimoto, R., Izumi, K., Murayama, Y., Yamamura, Y., Shishido, Y. CFD Market Maker’s Policy Optimization using Artificial Market Simulation and Deep Reinforcement Learning. Transactions of the Japanese Society for Artificial Intelligence, Vol.39, No.4, pp.FIN23-F_1-11, 2024.
+  
+- Taguchi, R., Sakaji, H., Izumi, K., and Murayama, Y. Asset Allocation Method Based on Sentiment Signals and Causal Information using Multi-asset Classes. International Journal of Smart Computing and Artificial Intelligence, Vol.7, No.2, 2023.
+
 - Taguchi, R., Sakaji, H., Izumi, K., and Murayama, Y. Constructing Sentiment Signal-based Asset Allocation Method with Causality Information. New Generation Computing, 2023.
   
 - <ins>Murayama, Y.</ins> and Kobayashi, I. Towards Question Answering with Multi-hop Reasoning and Calculation over Knowledge using a Neural Network Model with External Memories. J. Adv. Comput. Intell. Intell. Inform., 27(3), pp.481-489, 2022.
