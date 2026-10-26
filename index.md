@@ -35,7 +35,7 @@ Extracted subject-predicate-object relationship from medical documents using Wat
 
 ### Professional Service
 **Research Assistant**, Artificial intelligence research center (AIRC) of national institute of advanced industrial science and technology (AIST) NEDO3.0 “Core Technology Development of Next-generation AI and Robots” (DFA20285D8AB1), Feb 2021-Mar 2023.  
-Representative: Dr. Hiroya Takamura, AIST.  
+Representative: Prof. Hiroya Takamura, AIST.  
 Contributed to knowledge and information research team by engaging in the project of building a dialogue system using both the understanding of table data and external knowledge.
 
 **Research Member**, Japan science and technology agency (JST)/ core research for evolutional science and technology (CREST) “A Framework PRINTEPS to Develop Practical Artificial Intelligence” (JPMJCR14E3), Apr 2017-Mar 2020.  
